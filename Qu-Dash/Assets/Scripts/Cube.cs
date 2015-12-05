@@ -21,18 +21,40 @@ public class Cube : MonoBehaviour {
 		float h = Input.GetAxisRaw ("Horizontal");
 		float v = Input.GetAxisRaw ("Vertical");
 
-        if (Input.GetKeyDown("space"))
+        if (Input.GetKey(KeyCode.LeftShift))
         {
-            dash = !dash;
+            dash = true;
+            Debug.Log("dashing");
         }
+        else
+        {
+            dash = false;
+            Debug.Log("walk");
+        }
+
+        if (Input.GetKey("space"))
+        {
+            Time.timeScale = .2f;
+            Debug.Log("slow");
+        }
+        else
+            Time.timeScale = 1.0f;
 
         // Move the player around the scene.
         Move (h, v, dash);
 	}
-	
-	void Move (float h, float v, bool m)
+
+    void OnCollisionEnter(Collision collision)
+    {
+        if (collision.gameObject.tag == "Spike")
+        {
+            GM.instance.Die();           
+        }
+    }
+
+	void Move (float h, float v, bool sprint)
 	{
-        if (!m)
+        if (!sprint)
         {
             // Set the movement vector based on the axis input.
             movement.Set(h, v, 0f);
