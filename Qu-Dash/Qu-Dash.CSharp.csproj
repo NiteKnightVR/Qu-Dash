@@ -69,6 +69,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Cube.cs" />
+    <Compile Include="Assets\Scripts\DeathParticle.cs" />
+    <Compile Include="Assets\Scripts\Explosion.cs" />
+    <Compile Include="Assets\Scripts\ExplosionController.cs" />
     <Compile Include="Assets\Scripts\GM.cs" />
     <Compile Include="Assets\Scripts\SmoothCamera.cs" />
   </ItemGroup>

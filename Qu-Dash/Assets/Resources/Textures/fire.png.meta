@@ -1,0 +1,485 @@
+fileFormatVersion: 2
+guid: d5d0ddbe5c58d7c4cb8055be36aac5ab
+timeCreated: 1449712684
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: fire_0
+    21300002: fire_1
+    21300004: fire_2
+    21300006: fire_3
+    21300008: fire_4
+    21300010: fire_5
+    21300012: fire_6
+    21300014: fire_7
+    21300016: fire_8
+    21300018: fire_9
+    21300020: fire_10
+    21300022: fire_11
+    21300024: fire_12
+    21300026: fire_13
+    21300028: fire_14
+    21300030: fire_15
+    21300032: fire_16
+    21300034: fire_17
+    21300036: fire_18
+    21300038: fire_19
+    21300040: fire_20
+    21300042: fire_21
+    21300044: fire_22
+    21300046: fire_23
+    21300048: fire_24
+    21300050: fire_25
+    21300052: fire_26
+    21300054: fire_27
+    21300056: fire_28
+    21300058: fire_29
+    21300060: fire_30
+    21300062: fire_31
+    21300064: fire_32
+    21300066: fire_33
+    21300068: fire_34
+    21300070: fire_35
+    21300072: fire_36
+    21300074: fire_37
+    21300076: fire_38
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: fire_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 951
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_1
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 950
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_2
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 949
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_3
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 947
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_4
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 946
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_5
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 945
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_6
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 943
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_7
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 942
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_8
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 812
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_9
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 811
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_10
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 810
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_11
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 807
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_12
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 804
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_13
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 804
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_14
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 803
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_15
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 801
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_16
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 671
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 668
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_18
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 668
+        width: 73
+        height: 75
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_19
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 664
+        width: 77
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_20
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 664
+        width: 78
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_21
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 663
+        width: 81
+        height: 83
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_22
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 662
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_23
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 660
+        width: 86
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_24
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 530
+        width: 90
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_25
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 531
+        width: 89
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_26
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 530
+        width: 92
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_27
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 529
+        width: 95
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_28
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 530
+        width: 98
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_29
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 528
+        width: 98
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_30
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 528
+        width: 98
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_31
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 529
+        width: 93
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_32
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 403
+        width: 92
+        height: 98
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_33
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 403
+        width: 91
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_34
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 402
+        width: 93
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 403
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_36
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 406
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_37
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 407
+        width: 95
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_38
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 408
+        width: 97
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

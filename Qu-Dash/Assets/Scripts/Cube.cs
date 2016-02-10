@@ -24,22 +24,23 @@ public class Cube : MonoBehaviour {
         if (Input.GetKey(KeyCode.LeftShift))
         {
             dash = true;
-            Debug.Log("dashing");
         }
         else
         {
             dash = false;
-            Debug.Log("walk");
         }
 
         if (Input.GetKey("space"))
         {
             Time.timeScale = .2f;
-            Debug.Log("slow");
         }
         else
             Time.timeScale = 1.0f;
 
+        if (Input.GetKey(KeyCode.Alpha1))
+        {
+            this.transform.position = new Vector3 (22, -23, 0);
+        }
         // Move the player around the scene.
         Move (h, v, dash);
 	}
@@ -49,6 +50,14 @@ public class Cube : MonoBehaviour {
         if (collision.gameObject.tag == "Spike")
         {
             GM.instance.Die();           
+        }
+        if (collision.gameObject.tag == "Fire")
+        {
+            GM.instance.Die();
+        }
+        if (collision.gameObject.tag == "Portal")
+        {
+            GM.instance.nextLevel();
         }
     }
 
